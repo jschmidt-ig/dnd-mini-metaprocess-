@@ -1,0 +1,10 @@
+{
+  "name": "Molten_Warrior",
+  "description": "Fiery theme for an aggressive, battle-hardened look.",
+  "palette": {
+    "Color 1": {"role": "Base/Structure", "color": "Charcoal/Dark Grey", "hex": "#2F4F4F", "usage": "Armor base, Boots"},
+    "Color 2": {"role": "Primary Heat", "color": "Dark Red", "hex": "#8B0000", "usage": "Cape, Cloth"},
+    "Color 3": {"role": "Highlight/Fire", "color": "Orange Red", "hex": "#FF4500", "usage": "Magic effects, Eyes, Gems"},
+    "Color 4": {"role": "Metal/Trim", "color": "Gold", "hex": "#FFD700", "usage": "Armor trim, Weapons"}
+  }
+}

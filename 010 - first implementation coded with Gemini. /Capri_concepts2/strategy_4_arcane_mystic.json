@@ -1,0 +1,10 @@
+{
+  "name": "Arcane_Mystic",
+  "description": "Magical aesthetic with high contrast cool tones.",
+  "palette": {
+    "Color 1": {"role": "Base/Robes", "color": "Indigo", "hex": "#4B0082", "usage": "Main Robes"},
+    "Color 2": {"role": "Magic/Glow", "color": "Cyan", "hex": "#00FFFF", "usage": "Magic effects, Runes"},
+    "Color 3": {"role": "Metal/Silver", "color": "Silver", "hex": "#C0C0C0", "usage": "Staff, Jewelry"},
+    "Color 4": {"role": "Depth/Contrast", "color": "Midnight Blue", "hex": "#191970", "usage": "Cloak lining, Shadows"}
+  }
+}

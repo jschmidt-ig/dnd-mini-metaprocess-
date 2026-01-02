@@ -1,0 +1,17 @@
+I just did an iteration for a project I'm calling Mini D&D.
+ 
+I want you to analyze the inception of the project and what we implemented.
+ 
+I need you to help me come up with three things I think didn't work on this.
+#1: I have a relatively creative process, and I need to map that out.
+Number two is, I would like to kind of build a framework for managing AI agents. In this, I interact with ChatGPT 5.2 on the web and then the Gemini CLI.
+ 
+I'm uploading some sample documents (010 and 020) showing the initiating chats and research I did for this project. Document 030 is my retro analysis with Sam talking about it. This is really good information for the meta process that I want to create, and I'm using this project as an example because I want to re-run it with a better meta process to manage AI agents.
+ 
+The files that do not have a numeric prefix are the files that were generated with Gemini CLI. I think the one titled like "init chat" was the one that I manually typed to kick it off. The basic workflow was: I had Gemini read the "init chat" and generate a Gemini markdown file and a milestone one. The problems I had with Gemini were:
+
+I didn't understand that when I did the POC originally with the Gemini chat, I thought I had uploaded the STL model and it generated the image from that, but it wasn't capable of doing that.
+It also took a while trying to figure out how to use the Vertex API.
+I think I did something that confused everything by trying to limit my Brew and Python installs to my new AI user directory.
+
+ I'd like some analysis to see if that needs to be avoided and to do that as a separate thread.

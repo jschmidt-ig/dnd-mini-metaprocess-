@@ -1,0 +1,10 @@
+{
+  "name": "Forest_Ranger",
+  "description": "Natural camouflage suitable for woodland settings.",
+  "palette": {
+    "Color 1": {"role": "Base/Cloth", "color": "Forest Green", "hex": "#228B22", "usage": "Cloak, Tunic"},
+    "Color 2": {"role": "Leather/Gear", "color": "Saddle Brown", "hex": "#8B4513", "usage": "Boots, Belts, Straps"},
+    "Color 3": {"role": "Skin/Bone", "color": "Khaki/Cream", "hex": "#F0E68C", "usage": "Skin, Bow wood"},
+    "Color 4": {"role": "Detail/Shadow", "color": "Soft Black", "hex": "#1A1A1A", "usage": "Hair, Iron fittings"}
+  }
+}
