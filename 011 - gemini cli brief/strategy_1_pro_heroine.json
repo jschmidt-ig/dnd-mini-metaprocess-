@@ -1,0 +1,10 @@
+{
+  "name": "Pro_Winged_Heroine",
+  "description": "Balanced 'pretty' and 'heroic' 4-color AMS strategy.",
+  "palette": {
+    "Color 1": {"role": "Base/Structure", "color": "White or Bone", "hex": "#F5F5DC", "usage": "Wings, Cloth, Wolf"},
+    "Color 2": {"role": "Armor/Metal", "color": "Silk Gold or Bronze", "hex": "#D4AF37", "usage": "Armor plating, Hilt"},
+    "Color 3": {"role": "Skin", "color": "Beige/Skin Tone", "hex": "#F5C396", "usage": "Face, Hands, Midriff"},
+    "Color 4": {"role": "Contrast/Detail", "color": "Royal Blue", "hex": "#4169E1", "usage": "Cape, Boots, Magic"}
+  }
+}
